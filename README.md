@@ -2,22 +2,31 @@
 # Programming
 
 1. markdown - Study about this
+   - shortcut : Ctrl + k , v
+   - Study grammer how to use markdown
 
 2. git
    - install git : git system sw
    - tortoisegit : git managing sw
+     gitkraken : 
+     visual studio code : 
 
    - A. Repository : folder for git
-   - B. commit
+   - B. commit : 
    - C. push : uploading to server
    - D. pull : downloading to your working pc
+   - Diff
+   - Revert
+   - Branch
+   - 
+
 
 3. laptop(for research), laptop(private)
 4. SW Environment
    - git + gitKraken + tortoisegit
    - Visual Studio 2019(Not free)-But private user is free
    - Visual Studo Code(free)
-   - Diff tool
+   - Diff tool(AraxisMerge)
 
 
 5. How to start aloha project

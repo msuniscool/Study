@@ -13,7 +13,7 @@
 
 
 <p><span style="font-family: 'Georgia';">
-everything between the span lines will be changed into Georgia. THis is only
+everything between the span lines will be changed into Georgia. This is only
 in html however so regular markdown won't work in here
 </span></p>
 

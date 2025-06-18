@@ -2,7 +2,7 @@
 # Programming
 
 1. markdown - Study about this
-   - shortcut : Ctrl + k , v
+   - shortcut : Ctrl + k , v to open side preview
    - Study grammer how to use markdown
 
 2. git
